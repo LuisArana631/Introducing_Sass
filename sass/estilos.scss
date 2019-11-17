@@ -1,9 +1,11 @@
+$colorBackground: #B8F3FF;
+
 h1{
-    color:yellowgreen;
+    color: #36213E;
 }
 
 footer{
-    background: grey;
+    background: $colorBackground;
 
     h4{
         color:skyblue;
@@ -11,6 +13,22 @@ footer{
         a{
             color: blue;
         }
+    }
+}
+
+section{
+    background: $colorBackground;
+
+    h1{
+        background: #8AC6D0;
+    }
+
+    h2{
+        background: #63768D;
+    }
+
+    p{
+        background: #554971;
     }
 }
 
