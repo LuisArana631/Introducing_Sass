@@ -1,27 +1,15 @@
-h1 {
-  color: #36213E;
+header {
+  height: 100px;
+  background: #36213E;
 }
 
 footer {
-  background: #B8F3FF;
-}
-footer h4 {
-  color: skyblue;
-}
-footer h4 a {
-  color: blue;
+  height: 100px;
+  background: #63768D;
 }
 
 section {
-  background: #B8F3FF;
-}
-section h1 {
-  background: #8AC6D0;
-}
-section h2 {
-  background: #63768D;
-}
-section p {
+  height: 100px;
   background: #554971;
 }
 

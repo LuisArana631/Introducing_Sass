@@ -1,34 +1,6 @@
-$colorBackground: #B8F3FF;
+@import "variables";
+@import "header";
+@import "footer";
+@import "section";
 
-h1{
-    color: #36213E;
-}
-
-footer{
-    background: $colorBackground;
-
-    h4{
-        color:skyblue;
-
-        a{
-            color: blue;
-        }
-    }
-}
-
-section{
-    background: $colorBackground;
-
-    h1{
-        background: #8AC6D0;
-    }
-
-    h2{
-        background: #63768D;
-    }
-
-    p{
-        background: #554971;
-    }
-}
 
